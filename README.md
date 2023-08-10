@@ -5,7 +5,7 @@ Career Page
 
 ## Demo
 
-https://react-ecommerce-abhishekdangi.netlify.app/
+https://careerpage-abhishekdangi.netlify.app/
 
 ## Features
 
